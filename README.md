@@ -12,6 +12,12 @@ Estamos programando el próximo encuentro. Si estás interesado, participa en
 Si quieres proponer un encuentro, abre un <a href="https://github.com/nodeschool/madrid/issues">issue en GitHub</a>
 o contacta con <a href="https://twitter.com/pinchito">@pinchito</a>.
 
+## Código de conducta
+
+Usamos este [código de conducta](https://github.com/nodeschool/madrid/blob/master/codigodeconducta.md)
+para asegurarnos de que estamos en un entorno libre de conductas abusivas
+y que todo el mundo se sienta bienvenido.
+
 ## Organizadores
 
 * Alejandro Fernández <a href="https://twitter.com/pinchito">@pinchito</a>.
