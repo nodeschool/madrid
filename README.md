@@ -24,6 +24,7 @@ y que todo el mundo se sienta bienvenido.
 * Israel Gutiérrez <a href="https://twitter.com/gootyfer">@gootyfer</a>.
 * Javier Vélez <a href="https://twitter.com/javiervelezreye">@javiervelezreye</a>.
 * Rafael Pedrola <a href="https://twitter.com/rafinskipg">@rafinskipg</a>.
+* Carlos Azaustre <a href="https://twitter.com/carlosazaustre">@carlosazaustre</a>.
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
