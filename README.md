@@ -23,6 +23,7 @@ y que todo el mundo se sienta bienvenido.
 * Alejandro Fernández <a href="https://twitter.com/pinchito">@pinchito</a>.
 * Israel Gutiérrez <a href="https://twitter.com/gootyfer">@gootyfer</a>.
 * Javier Vélez <a href="https://twitter.com/javiervelezreye">@javiervelezreye</a>.
+* Rafael Pedrola <a href="https://twitter.com/rafinskipg">@rafinskipg</a>.
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
