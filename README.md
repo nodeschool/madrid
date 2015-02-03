@@ -27,6 +27,7 @@ y que todo el mundo se sienta bienvenido.
 * Carlos Azaustre <a href="https://twitter.com/carlosazaustre">@carlosazaustre</a>.
 * Javier Abadia <a href="https://twitter.com/javierabadia">@javierabadia</a>.
 * Alvaro Santamaría <a href="https://twitter.com/dofideas">@dofideas</a>.
+* Sergio Arbeo [@Serabe](https://twitter.com/Serabe).
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
