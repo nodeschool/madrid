@@ -26,6 +26,7 @@ y que todo el mundo se sienta bienvenido.
 * Rafael Pedrola <a href="https://twitter.com/rafinskipg">@rafinskipg</a>.
 * Carlos Azaustre <a href="https://twitter.com/carlosazaustre">@carlosazaustre</a>.
 * Javier Abadia <a href="https://twitter.com/javierabadia">@javierabadia</a>.
+* Alvaro Santamaría <a href="https://twitter.com/dofideas">@dofideas</a>.
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
