@@ -4,10 +4,20 @@
 En colaboración con <a href="http://www.meetup.com/Node-js-Madrid/">Node.js Madrid</a>
 estamos organizando una rama local de Nodeschool.
 
-## Próximos encuentros
+## Próximos evento presencial
 
-Estamos programando el próximo encuentro. Si estás interesado, participa en
-[la encuesta](http://www.meetup.com/Node-js-Madrid/polls/1194962/).
+El próximo encuentro será en Medialab Prado el martes 3 de marzo.
+Apúntate [aquí](http://www.meetup.com/Node-js-Madrid/events/220356931/),
+no es indispensable pero nos ayudará a calibrar la asistencia.
+
+Vente con tu portátil y Node.js instalado.
+Ayuda que traigas los [tutoriales](http://nodeschool.io/#workshoppers)
+instalados, en caso de que nos falle la WiFi.
+
+Y por favor, ayúdanos a difundir el evento entre tus amigos, colegas, conocidos,
+clubs de fans, etcétera. Queremos llegar a una audiencia lo más diversa posible.
+
+## Otros encuentros
 
 Si quieres proponer un encuentro, abre un [issue en GitHub](https://github.com/nodeschool/madrid/issues)
 o contacta con [@pinchito](https://twitter.com/pinchito).
