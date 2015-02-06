@@ -10,6 +10,10 @@ El próximo encuentro será en Medialab Prado el martes 3 de marzo.
 Apúntate [aquí](http://www.meetup.com/Node-js-Madrid/events/220356931/),
 no es indispensable pero nos ayudará a calibrar la asistencia.
 
+Vente con tu portátil y Node.js instalado.
+Ayuda que traigas los [tutoriales](http://nodeschool.io/#workshoppers)
+instalados, en caso de que nos falle la WiFi.
+
 Y por favor, ayúdanos a difundir el evento entre tus amigos, colegas, conocidos,
 clubs de fans, etcétera. Queremos llegar a una audiencia lo más diversa posible.
 
