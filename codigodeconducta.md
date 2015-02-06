@@ -28,10 +28,7 @@ organizador inmediatamente.
 
 ### Nodeschool Madrid
 
-* Organizadores: Alejandro Fernández <a href="https://twitter.com/pinchito">@pinchito</a>,
-Israel Gutiérrez <a href="https://twitter.com/gootyfer">@gootyfer</a>,
-Javier Vélez <a href="https://twitter.com/javiervelezreye">@javiervelezreye</a>.
-* URL del Meetup: http://www.meetup.com/Node-js-Madrid/
+* Organizadores: Alejandro Fernández [@pinchito](https://twitter.com/pinchito), Israel Gutiérrez [@gootyfer](https://twitter.com/gootyfer), Javier Vélez [@javiervelezreye](https://twitter.com/javiervelezreye), Rafael Pedrola [@rafinskipg](https://twitter.com/rafinskipg), Carlos Azaustre [@carlosazaustre](https://twitter.com/carlosazaustre), Javier Abadia [@javierabadia](https://twitter.com/javierabadia), Alvaro Santamaría [@dofideas](https://twitter.com/dofideas), Sergio Arbeo [@Serabe](https://twitter.com/Serabe).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor contacta con uno de los organizadores.**
@@ -44,7 +41,7 @@ Hemos usado estas fuentes como punto de partida:
 Python's anti-harassment policy](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
 * [Geek Feminism Conference anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 
-Traducido por <a href="https://twitter.com/pinchito">@pinchito</a>.
+Traducido por [@pinchito](https://twitter.com/pinchito).
 
 Este código de conducta, al igual que sus fuentes, está licenciado bajo la licencia
 [Creative Commons Zero license](http://creativecommons.org/publicdomain/zero/1.0/).

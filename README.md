@@ -4,7 +4,7 @@
 En colaboración con <a href="http://www.meetup.com/Node-js-Madrid/">Node.js Madrid</a>
 estamos organizando una rama local de Nodeschool.
 
-## Próximos encuentros
+## Próximos evento presencial
 
 El próximo encuentro será en Medialab Prado el martes 3 de marzo.
 Apúntate [aquí](http://www.meetup.com/Node-js-Madrid/events/220356931/),
@@ -17,6 +17,11 @@ instalados, en caso de que nos falle la WiFi.
 Y por favor, ayúdanos a difundir el evento entre tus amigos, colegas, conocidos,
 clubs de fans, etcétera. Queremos llegar a una audiencia lo más diversa posible.
 
+## Otros encuentros
+
+Si quieres proponer un encuentro, abre un [issue en GitHub](https://github.com/nodeschool/madrid/issues)
+o contacta con [@pinchito](https://twitter.com/pinchito).
+
 ## Código de conducta
 
 Usamos este [código de conducta](https://github.com/nodeschool/madrid/blob/master/codigodeconducta.md)
@@ -25,13 +30,13 @@ y que todo el mundo se sienta bienvenido.
 
 ## Organizadores
 
-* Alejandro Fernández <a href="https://twitter.com/pinchito">@pinchito</a>.
-* Israel Gutiérrez <a href="https://twitter.com/gootyfer">@gootyfer</a>.
-* Javier Vélez <a href="https://twitter.com/javiervelezreye">@javiervelezreye</a>.
-* Rafael Pedrola <a href="https://twitter.com/rafinskipg">@rafinskipg</a>.
-* Carlos Azaustre <a href="https://twitter.com/carlosazaustre">@carlosazaustre</a>.
-* Javier Abadia <a href="https://twitter.com/javierabadia">@javierabadia</a>.
-* Alvaro Santamaría <a href="https://twitter.com/dofideas">@dofideas</a>.
+* Alejandro Fernández [@pinchito](https://twitter.com/pinchito).
+* Israel Gutiérrez [@gootyfer](https://twitter.com/gootyfer).
+* Javier Vélez [@javiervelezreye](https://twitter.com/javiervelezreye).
+* Rafael Pedrola [@rafinskipg](https://twitter.com/rafinskipg).
+* Carlos Azaustre [@carlosazaustre](https://twitter.com/carlosazaustre).
+* Javier Abadia [@javierabadia](https://twitter.com/javierabadia).
+* Alvaro Santamaría [@dofideas](https://twitter.com/dofideas).
 * Sergio Arbeo [@Serabe](https://twitter.com/Serabe).
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
@@ -40,6 +45,6 @@ URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
 Gracias a todos los voluntarios para ser mentores y para acudir a los encuentros.
 
-Gracias a la organización de <a href="http://nodeschool.io/">nodeschool.io</a>
+Gracias a la organización de [nodeschool.io](http://nodeschool.io/)
 por hacerlo tan fácil y acercar Node.js a miles de personas.
 
