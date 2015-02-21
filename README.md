@@ -38,6 +38,7 @@ y que todo el mundo se sienta bienvenido.
 * Javier Abadia [@javierabadia](https://twitter.com/javierabadia).
 * Alvaro Santamaría [@dofideas](https://twitter.com/dofideas).
 * Sergio Arbeo [@Serabe](https://twitter.com/Serabe).
+* Fernando Sanz [@fsanzv](https://twitter.com/fsanzv).
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
