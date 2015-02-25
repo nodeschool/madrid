@@ -40,6 +40,7 @@ y que todo el mundo se sienta bienvenido.
 * Sergio Arbeo [@Serabe](https://twitter.com/Serabe).
 * Fernando Sanz [@fsanzv](https://twitter.com/fsanzv).
 * Mánu Fosela [@manufosela](https://twitter.com/manufosela).
+* Santiago Bernabé [@mindcookin](https://twitter.com/mindcookin).
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
