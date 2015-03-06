@@ -41,6 +41,7 @@ y que todo el mundo se sienta bienvenido.
 * Fernando Sanz [@fsanzv](https://twitter.com/fsanzv).
 * Mánu Fosela [@manufosela](https://twitter.com/manufosela).
 * Santiago Bernabé [@mindcookin](https://twitter.com/mindcookin).
+* Sergio García Mondaray [@sgmonda](https://twitter.com/sgmonda).
 
 URL del Meetup: http://www.meetup.com/Node-js-Madrid/
 
