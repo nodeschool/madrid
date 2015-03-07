@@ -183,7 +183,8 @@ to do it again in a couple of months, to allow for some hype to build up.
 
 ## Boilerplate
 
-Written by Alex Fernández [@pinchito](https://twitter.com/pinchito).
+Written by [@alexfernandez](https://github.com/alexfernandez)
+([@pinchito](https://twitter.com/pinchito)).
 
 This document is licensed under the
 [Creative Commons Zero license](http://creativecommons.org/publicdomain/zero/1.0/).
