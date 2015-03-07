@@ -1,13 +1,14 @@
 # First Gathering for NodeSchool Madrid
 
 On 2015-03-03 the first meatspace gathering was held,
-under the umbrella of Node.js Madrid: the local Meetup for Node.js devs,
+under the umbrella of [Node.js Madrid](http://www.meetup.com/Node-js-Madrid/):
+the local Meetup for Node.js devs,
 which I also organize.
 
-This analysis should help others (and ourselves in the future)
+This analysis is done with the intention of helping others (and ourselves in the future)
 make less mistakes when organizing gatherings.
 
-I will add lessons as blockquotes:
+I will write important lessons we have learned as blockquotes:
 
 > Separate your lessons from the regular text.
 
@@ -76,16 +77,32 @@ The facilitators also complained that we had not limited the number of attendees
 which was not something I was willing to do since their policy is
 "open access":
 anyone coming from the street should be able to participate.
-Limiting attendees on Meetup would have meant leaving people out,
-and probably free spaces in the gathering.
+Limiting attendance in Meetup would have meant leaving people out,
+and probably leaving free spaces in the gathering.
 
 > Try to have people sign up somewhere; it helps you estimate attendance.
 > Plan to have only 50~60% of people to show up.
 
-### Amenities
+A quick show of hands told us that almost all attendees had followed the instructions:
+everyone had their laptops, all but a handful of people had Node.js installed,
+and just 20~30 had not installed the tutorials.
 
-The organization lent us extension cords and multiple socket adaptors,
+### Facilities
+
+The organization lent us lots of extension cords and socket adaptors,
 much needed in a room full of hungry laptops.
+
+WiFi was working well, so people who had not installed the tutorials had no problems
+doing it then.
+
+Some people had asked for a webcast or a recording of the gathering.
+It made no sense given the nature of the session:
+there were no talks or explanations of tutorials,
+everyone was supposed to follow them at their own pace.
+
+Despite being held in the canteen, there were no refreshments or food of any kind.
+This might have seemed a disadvantage,
+but in a room with 120 people and full of laptops things could have got messy quickly.
 
 ### Activities
 
@@ -94,8 +111,12 @@ learn Node.js together using the [tutorials](http://nodeschool.io/#workshopper-l
 
 ![Explaining the basics](https://raw.githubusercontent.com/nodeschool/madrid/master/img/nodeschool-start.jpeg)
 
-People asked how they could recognize mentors; we replied that we would be
-the only ones walking between the tables.
+From that point on we just wandered around between the tables, and answered any questions.
+I tried to actively ask at least all tables once if everything was going smoothly.
+Truth be told, I fielded about 7 questions all in all,
+and only one of them was really hard:
+the [juggling async](https://github.com/rvagg/learnyounode/blob/master/exercises/juggling_async/problem.md)
+exercise in the learnyounode tutorial.
 
 At some point two of us went upstairs to see how the late-coming guys and girls
 (those that did not fit in the canteen) were doing. We solved a few issues.
@@ -103,13 +124,22 @@ After a while some spaces cleared downstairs and this group merged with everyone
 
 > Try to deliver on your promises, even if it means giving some people special attention.
 
-### Mentors and Attention
+### Attention and Mentors
+
+Someone asked how they could recognize mentors; we replied that we would be
+the only ones walking between the tables.
+
+> Mentors might wear NodeSchool t-shirts so they are easier to spot.
 
 Mentors tended to cluster together at one end of the canteen.
 
 > Try to make mentors move around, even if nobody is asking questions.
 > People may be working quietly, but if somebody asks them directly
 > they express their issues with more liberty.
+
+Concentration was high all the time: at no point did we need to hush people,
+even though many people had come in groups.
+There were also no disruptions worth of mention.
 
 ## Aftermath
 
