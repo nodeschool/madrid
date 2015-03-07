@@ -1,6 +1,6 @@
-# First Gathering for NodeSchool Madrid
+# First Gathering of NodeSchool Madrid
 
-On 2015-03-03 the first meatspace gathering was held,
+On 2015-03-03 the first meatspace gathering of the Madrid chapter of NodeSchool was held,
 under the umbrella of [Node.js Madrid](http://www.meetup.com/Node-js-Madrid/):
 the local Meetup for Node.js devs,
 which I also organize.
@@ -90,6 +90,16 @@ and probably leaving free spaces in the gathering.
 A quick show of hands told us that almost all attendees had followed the instructions:
 everyone had their laptops, all but a handful of people had Node.js installed,
 and just 20~30 had not installed the tutorials.
+
+A sore point was diversity: women were below 10% of attendees,
+and almost everyone were Spanish-born and in the 30~40 age range.
+I would have liked to have more women show up,
+more people of different nationalities (including Europeans, South Americans and Africans
+which make up the majority of foreigners in Spain),
+and more young or old people. But you can only do so much.
+
+> Reach out to women, student and foreign communities.
+> Diversity is essential in a healthy community.
 
 ### Facilities
 
