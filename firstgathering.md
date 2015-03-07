@@ -5,7 +5,7 @@ under the umbrella of [Node.js Madrid](http://www.meetup.com/Node-js-Madrid/):
 the local Meetup for Node.js devs,
 which I also organize.
 About 130 people showed up;
-it was very productive for attendees and great fun for all involved.
+it was very productive for attendees and great fun for everyone involved.
 
 ![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/madrid/master/img/tables.jpg)
 
