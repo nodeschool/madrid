@@ -2,7 +2,7 @@
 
 ¿Quieres aprender Node.js? ¡Éste es el sitio!
 En colaboración con <a href="http://www.meetup.com/Node-js-Madrid/">Node.js Madrid</a>
-hemos organizano una rama local de [NodeSchool](http://nodeschool.io/).
+hemos organizado una rama local de [NodeSchool](http://nodeschool.io/).
 
 ## Eventos presenciales
 
