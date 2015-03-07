@@ -84,6 +84,9 @@ and probably free spaces in the gathering.
 
 ### Amenities
 
+The organization lent us extension cords and multiple socket adaptors,
+much needed in a room full of hungry laptops.
+
 ### Activities
 
 When people had arrived and calmed down a bit, we explained what we had come to do:
@@ -91,7 +94,48 @@ learn Node.js together using the [tutorials](http://nodeschool.io/#workshopper-l
 
 ![Explaining the basics](https://raw.githubusercontent.com/nodeschool/madrid/master/img/nodeschool-start.jpeg)
 
-## Conclusions
+People asked how they could recognize mentors; we replied that we would be
+the only ones walking between the tables.
+
+At some point two of us went upstairs to see how the late-coming guys and girls
+(those that did not fit in the canteen) were doing. We solved a few issues.
+After a while some spaces cleared downstairs and this group merged with everyone else.
+
+> Try to deliver on your promises, even if it means giving some people special attention.
+
+### Mentors and Attention
+
+Mentors tended to cluster together at one end of the canteen.
+
+> Try to make mentors move around, even if nobody is asking questions.
+> People may be working quietly, but if somebody asks them directly
+> they express their issues with more liberty.
+
+## Aftermath
+
+One of the key points of the gathering was to provide for support later on
+to those brave souls that kept working on the tutorials afterwards.
+
+### Slack
+
+We set up an [account on Slack](https://nodeschoolmadrid.slack.com/) before the gathering.
+
+We asked people to write their mail addresses on a piece of paper if they were interested,
+and I sent a followup email offering to invite them with my email address.
+
+> Slack is a nice platform, but the lack of self-invites is annoying:
+> admins have to invite everyone.
+
+We have 82 people in our Slack right now.
+To be honest there is an unexpected paucity in questions:
+up to this point there have been very few questions about the tutorials.
+
+> Do not expect too many online questions.
+
+### Next Event
+
+People are already asking for the next gathering. We mentors have agreed
+to do it again in a couple of months, to allow for some hype to build up.
 
 ## Boilerplate
 
