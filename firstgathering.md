@@ -110,7 +110,7 @@ but in a room with 120 people and full of laptops things could have got messy qu
 
 ### Activities
 
-When people had arrived and calmed down a bit, we explained what we had come to do:
+When people had arrived and settled down a bit, we explained what we had come to do:
 learn Node.js together using the [tutorials](http://nodeschool.io/#workshopper-list).
 
 ![Explaining the basics](https://raw.githubusercontent.com/nodeschool/madrid/master/img/nodeschool-start.jpeg)
@@ -137,7 +137,7 @@ the only ones walking between the tables.
 
 Mentors tended to cluster together at one end of the canteen.
 
-> Try to make mentors move around, even if nobody is asking questions.
+> Mentors should be encouraged to move around, even if nobody is asking questions.
 > People may be working quietly, but if somebody asks them directly
 > they express their issues with more liberty.
 
