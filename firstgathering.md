@@ -51,7 +51,7 @@ and have ready a text editor of your choice.
 ## Gathering
 
 About 130 people showed up;
-this huge number was a success, even if it strained a bit the capacity of everyone involved.
+this huge number was a success, even if it strained a bit the capacity of the venue.
 
 ### Venue
 
@@ -60,14 +60,13 @@ which occupies an awesome building very near the Museum Triangle,
 in the heart of the city. We had reserved the canteen,
 which the organization had told us could hold up to 40 people.
 
-The "facilitators" there (contractors for the organization)
-complained a lot about the number of people,
+The representatives of Medialab Prado complained a lot about the number of people,
 but in the end helped us make it a success.
 
 > Let the venue know your prevision of attendance beforehand,
 > specially if you expect a lot of people.
 
-Luckily the facilitators were now quoting an "absolute maximum of 120 people",
+Luckily the representatives were now quoting an "absolute maximum of 120 people" for the canteen,
 which left us some margin.
 After that number we had to watch ourselves that no one else accessed the space.
 The first unlucky supernumerary NodeSchoolers were turned back;
@@ -77,11 +76,11 @@ and promised that some mentors would go there to check up on them.
 ### Attendance
 
 We were extremely lucky to have 60% of people that had signed up;
-it may look like a low number, but for Node.js Madrid it is approximately
-our best percentage ever.
+it may look like a low number, but in Node.js Madrid it is seldom above 50%,
+so this is probably our best attendance percentage ever.
 
-The facilitators also complained that we had not limited the number of attendees,
-which was not something I was willing to do since their policy is
+The Medialab-Prado representatives also complained that we had not limited the number of attendees in Meetup.com,
+but this was something I was not willing to do since their policy is
 "open access":
 anyone coming from the street should be able to participate.
 Limiting attendance in Meetup would have meant leaving people out,
@@ -98,8 +97,8 @@ A sore point was diversity: women were below 10% of attendees,
 and almost everyone were Spanish-born and in the 30~40 age range.
 I would have liked to have more women show up,
 more people of different nationalities (including Europeans, South Americans and Africans
-which make up the majority of foreigners in Spain),
-and more young or old people. But you can only do so much.
+which make up the majority of foreigners in Madrid),
+and more younger or older people. But you can only do so much.
 
 > Reach out to women, student and foreign communities.
 > Diversity is essential in a healthy community.
@@ -128,18 +127,20 @@ learn Node.js together using the [tutorials](http://nodeschool.io/#workshopper-l
 
 ![Explaining the basics](https://raw.githubusercontent.com/nodeschool/madrid/master/img/nodeschool-start.jpeg)
 
-From that point on we just wandered around between the tables, and answered any questions.
+From that point on we mentors just wandered around between the tables, and answered any questions.
 I tried to actively ask at least all tables once if everything was going smoothly.
 Truth be told, I fielded about 7 questions all in all,
 and only one of them was really hard:
 the [juggling async](https://github.com/rvagg/learnyounode/blob/master/exercises/juggling_async/problem.md)
 exercise in the learnyounode tutorial.
 
-At some point two of us went upstairs to see how the late-coming guys and girls
-(those that did not fit in the canteen) were doing. We solved a few issues.
+At some point two of us went upstairs to see how those that did not fit in the canteen were doing.
+We solved a couple of issues.
 After a while some spaces cleared downstairs and this group merged with everyone else.
 
 > Try to deliver on your promises, even if it means giving some people special attention.
+
+The meeting lasted from 19:00 till 20:45, since the building closes at 21:00.
 
 ### Attention and Mentors
 
@@ -148,13 +149,18 @@ the only ones walking between the tables.
 
 > Mentors might wear NodeSchool t-shirts so they are easier to spot.
 
-Mentors tended to cluster together at one end of the canteen.
+Mentors tended to cluster together at the canteen bar, despite the absence of beer.
 
 > Mentors should be encouraged to move around, even if nobody is asking questions.
 > People may be working quietly, but if somebody asks them directly
 > they express their issues with more liberty.
 
-Concentration was high all the time: at no point did we need to hush people,
+The ratio of mentors was less than 1:10, which is suboptimal:
+everyone recommends 1:5 (one mentor per 5 students).
+We had no difficulty fielding questions though.
+It remains to be seen if more mentors would have encouraged more questions.
+
+Concentration was high all the time: at no point did we need to request silence,
 even though many people had come in groups.
 There were also no disruptions worth of mention.
 
@@ -168,14 +174,16 @@ to those brave souls that kept working on the tutorials afterwards.
 We set up an [account on Slack](https://nodeschoolmadrid.slack.com/) before the gathering.
 
 We asked people to write their mail addresses on a piece of paper if they were interested,
-and I sent a followup email offering to invite them with my email address.
+and we invited all of them during the following day.
+I also sent a followup email offering people to contact me privately so I could invite them.
+In fact, you can join too! Send me email to <alexfernandeznpm@gmail.com>.
 
 > Slack is a nice platform, but the lack of self-invites is annoying:
 > admins have to invite everyone.
 
 We have 82 people in our Slack right now.
 To be honest there is an unexpected paucity in questions:
-up to this point there have been very few questions about the tutorials.
+up to this point there have been very few queries about the tutorials.
 
 > Do not expect too many online questions.
 
