@@ -7,7 +7,7 @@ which I also organize.
 About 130 people showed up;
 it was very productive for attendees and great fun for all involved.
 
-![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/madrid/master/img/tables.jpeg)
+![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/madrid/master/img/tables.jpg)
 
 This analysis is done with the intention of helping others (and ourselves in the future)
 make less mistakes when organizing gatherings.
