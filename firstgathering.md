@@ -1,6 +1,6 @@
-# First Gathering of NodeSchool Madrid
+# First Gathering of NodeSchool Madrid (2015-03-03)
 
-On 2015-03-03 the first meatspace gathering of the Madrid chapter of NodeSchool was held,
+On March 3rd 2015 the first meatspace gathering of the Madrid chapter of NodeSchool was held,
 under the umbrella of [Node.js Madrid](http://www.meetup.com/Node-js-Madrid/):
 the local Meetup for Node.js devs,
 which I also organize.
@@ -18,15 +18,14 @@ I will write important lessons we have learned as blockquotes:
 
 ## Preparation
 
-In preparation for the Meetup I requested volunteers to perform as mentors
-for NodeSchool Madrid.
+In preparation for the gathering I requested volunteers to be mentors.
 The response was fantastic: there were no less than 12 volunteers,
 of which 10 went to the first gathering.
 
-I tried to spread the word around as much as possible, both online and offline:
+For students, I tried to spread the word around as much as possible, both online and offline:
 Twitter, student associations, companies, other meetups.
-I could not have done it without the help of the mentors and other colleagues,
-and we were quite successful:
+Mentors and other colleagues also helped a lot,
+and altogether we were quite successful:
 at some point 250 people had signed up at Meetup.com, although the numbers
 went down to 216 at the moment of the gathering.
 
@@ -36,19 +35,23 @@ I asked all mentors to do at least the first two tutorials:
 [javascripting](https://github.com/sethvincent/javascripting)
 and [learnyounode](https://github.com/rvagg/learnyounode),
 and did the same myself.
-I have to confess that the modules bit lost me somehow,
+I have to confess that the modules exercise was too complex and required too much effort,
+so I left it there,
 but it was not an issue at the gathering.
+
+> There is a a big gap between javascripting and learnyounode;
+> some basic Node.js exercises would be most welcome.
 
 I explained on the [Meetup page](http://www.meetup.com/Node-js-Madrid/events/220356931/)
 the basic requirements from the official page:
 bring your own laptop,
 preinstall Node.js and the first two tutorials,
-and a text editor of your choice.
+and have ready a text editor of your choice.
 
 ## Gathering
 
 About 130 people showed up;
-this huge number strained a bit the capacity of everyone involved.
+this huge number was a success, even if it strained a bit the capacity of everyone involved.
 
 ### Venue
 
