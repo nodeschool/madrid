@@ -4,6 +4,10 @@ On 2015-03-03 the first meatspace gathering was held,
 under the umbrella of [Node.js Madrid](http://www.meetup.com/Node-js-Madrid/):
 the local Meetup for Node.js devs,
 which I also organize.
+About 130 people showed up;
+it was very productive for attendees and great fun for all involved.
+
+![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/madrid/master/img/tables.jpeg)
 
 This analysis is done with the intention of helping others (and ourselves in the future)
 make less mistakes when organizing gatherings.
