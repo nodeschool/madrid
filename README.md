@@ -9,14 +9,12 @@ hemos organizado una rama local de [NodeSchool](http://nodeschool.io/).
 Los eventos presenciales son una parte importante de NodeSchool,
 para animar a más gente a unirse a la comunidad de desarrolladores de Node.js.
 
-### Último evento presencial
+### International Day
 
-El último evento fue en Medialab Prado el pasado martes 3 de marzo.
-Puedes leerlo [aquí](http://www.meetup.com/Node-js-Madrid/events/220356931/).
+En colaboración con [NodeSchool International Day](http://nodeschool.io/international-day/),
+organizamos un [nuevo evento en Medialab Prado](http://www.meetup.com/Node-js-Madrid/events/222023643/)
+el próximo 23 de mayo de 2015. ¡No te lo pierdas!
 
-### Próximos eventos
-
-El próximo evento será en mayo de 2015.
 Vente con tu portátil y Node.js instalado.
 Ayuda que traigas los [tutoriales](http://nodeschool.io/#workshoppers)
 instalados, en caso de que nos falle la WiFi.
@@ -26,6 +24,11 @@ clubs de fans, etcétera. Queremos llegar a una audiencia lo más diversa posibl
 
 Si quieres proponer un encuentro, abre un [issue en GitHub](https://github.com/nodeschool/madrid/issues)
 o contacta con [@pinchito](https://twitter.com/pinchito).
+
+### Eventos anteriores
+
+El anterior evento fue en Medialab Prado el pasado martes 3 de marzo.
+Puedes leerlo [aquí](http://www.meetup.com/Node-js-Madrid/events/220356931/).
 
 ### Código de conducta
 
