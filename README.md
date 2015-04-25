@@ -13,6 +13,8 @@ para animar a más gente a unirse a la comunidad de desarrolladores de Node.js.
 
 ### International Day
 
+[![Madrid NodeSchool International Day](img/nodeschool_madrid_international_day.jpg)](http://www.meetup.com/Node-js-Madrid/events/222023643/)
+
 En colaboración con [NodeSchool International Day](http://nodeschool.io/international-day/),
 organizamos un [nuevo evento en Medialab Prado](http://www.meetup.com/Node-js-Madrid/events/222023643/)
 el próximo 23 de mayo de 2015. ¡No te lo pierdas!
