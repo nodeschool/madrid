@@ -89,7 +89,7 @@ html {
 
 body {
   background: white;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round' !important;
   font-weight: 400;
   color: #555555;
   position: relative;
@@ -158,7 +158,7 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: dosisregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 100;
   color: #444444;
   text-rendering: optimizeLegibility;
@@ -235,12 +235,12 @@ h6 {
 }
 
 /*=====================================================
- 
+
   Links & Paragraph styles
-  
+
   ======================================================*/
 p {
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 400;
   font-size: 16px;
   font-size: 1rem;
@@ -273,7 +273,7 @@ a:hover {
 /*=====================================================
 
   Lists
-  
+
  ======================================================*/
 ul, ol {
   margin-bottom: 0.273em;
@@ -7020,7 +7020,7 @@ form fieldset legend {
   outline: none;
   resize: none;
   -webkit-appearance: none;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 300;
   font-size: 16px;
   font-size: 1rem;
@@ -7127,7 +7127,7 @@ form fieldset legend {
   padding: 0 10px 0 10px;
   background: #f2f2f2;
   border: 1px solid #d8d8d8;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 600;
   color: #555555;
   font-size: 16px;
@@ -7407,7 +7407,7 @@ form fieldset legend {
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
   border-radius: 4px;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 600;
   height: auto;
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #f2f2f2));
@@ -7454,7 +7454,7 @@ form fieldset legend {
 .badge, .label {
   height: 20px;
   display: inline-block;
-  font-family: Helvetica, arial, verdana, sans-serif;
+  font-family: 'Varela Round', arial, verdana, sans-serif;
   font-weight: bold;
   line-height: 20px;
   text-align: center;
@@ -7598,7 +7598,7 @@ form fieldset legend {
 
 .alert {
   padding: 0 10px;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 600;
   list-style-type: none;
   word-wrap: break-word;
@@ -7689,7 +7689,7 @@ form fieldset legend {
   padding: 0 16px;
   margin: 0;
   color: #555555;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 600;
   border: 1px solid #e5e5e5;
   border-width: 1px 1px 0 1px;
@@ -7731,7 +7731,7 @@ form fieldset legend {
   padding: 0 16px;
   margin: 0;
   color: #555555;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: 600;
   border: 1px solid #e5e5e5;
   border-width: 1px 1px 0 1px;
@@ -8172,7 +8172,7 @@ table.rounded > tbody:first-child tr:first-child td {
 
 /****************
 *
-* Reel v1.0 
+* Reel v1.0
 * -------------
 *
 * Simple, Responsive App Showcase
@@ -8183,7 +8183,7 @@ table.rounded > tbody:first-child tr:first-child td {
 /**
 * Reusable animations & classes
 * Animations can be attached to any element using a class with their name.
-* Also included in this section are global utility classes, 
+* Also included in this section are global utility classes,
 * such as .screen-reader-text.
 *****************************************************/
 /* Utility classes
@@ -8192,11 +8192,11 @@ table.rounded > tbody:first-child tr:first-child td {
   display: none;
 }
 
-/** 
+/**
 * Reusable Noise Class
 * Will add transparent noise to
 * any element with this class.
-* For more details: 
+* For more details:
 * http://www.mightymeta.co.uk/css-noise/
 *****************/
 .noise {
@@ -8224,7 +8224,7 @@ input::-moz-focus-inner {
   padding: 0;
 }
 
-/** 
+/**
 * Custom Form Components
 *****************/
 .catch-errors-top, .catch-errors-bot {
@@ -8263,7 +8263,7 @@ input::-moz-focus-inner {
   margin-top: 30px;
 }
 
-/** 
+/**
 * Custom Scrollbar
 *****************/
 ::-webkit-scrollbar {
@@ -8874,9 +8874,9 @@ input::-moz-focus-inner {
   }
 }
 
-/** 
-* Associate keyframe animations with classes. 
-* Default animation time = 1 second. 
+/**
+* Associate keyframe animations with classes.
+* Default animation time = 1 second.
 *****************/
 .fadeIn {
   opacity: 1;
@@ -8932,7 +8932,7 @@ input::-moz-focus-inner {
 *****************************************************/
 .site-header {
   background-color: #2b3848;
-  /** 
+  /**
   * Add your custom background image for a cool parallax effect.
   * background-image:url('img/your-header-background-image.png')
   *****************/
@@ -9038,7 +9038,7 @@ input::-moz-focus-inner {
 .input-side, .btn-side {
   padding: 20px;
   display: inline-block;
-  font-family: anaheimregular, sans-serif;
+  font-family: 'Varela Round', sans-serif;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -9102,7 +9102,7 @@ input::-moz-focus-inner {
 }
 
 /**
-* Main Content & Section General Styles 
+* Main Content & Section General Styles
 * Applied globally across the main content area.
 *****************************************************/
 .site-section {
@@ -9111,7 +9111,7 @@ input::-moz-focus-inner {
 }
 
 /**
-* Features Section 
+* Features Section
 *****************************************************/
 .features-item {
   display: inline-block;
@@ -9352,7 +9352,7 @@ input::-moz-focus-inner {
 }
 
 /**
-* Site Footer 
+* Site Footer
 *****************************************************/
 .site-footer {
   background-color: #2b3848;
