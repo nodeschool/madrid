@@ -46,6 +46,8 @@ y que todo el mundo se sienta bienvenido.
 
 ### Slack
 
+[![Nodeschool Slack](http://s17.postimg.org/skz55y1wf/Screen_Shot_2015_06_22_at_17_33_56.png)](http://nodeschoolmadrid.herokuapp.com)
+
 Tenemos cuenta en [Slack](https://nodeschoolmadrid.slack.com/),
 donde puedes preguntar tus dudas sobre tutoriales concretos,
 o comentar lo que quieras en el canal #offline.
