@@ -28,7 +28,15 @@ organizador inmediatamente.
 
 ### Nodeschool Madrid
 
-* Organizadores: Alejandro Fernández [@pinchito](https://twitter.com/pinchito), Israel Gutiérrez [@gootyfer](https://twitter.com/gootyfer), Javier Vélez [@javiervelezreye](https://twitter.com/javiervelezreye), Rafael Pedrola [@rafinskipg](https://twitter.com/rafinskipg), Carlos Azaustre [@carlosazaustre](https://twitter.com/carlosazaustre), Javier Abadia [@javierabadia](https://twitter.com/javierabadia), Alvaro Santamaría [@dofideas](https://twitter.com/dofideas), Sergio Arbeo [@Serabe](https://twitter.com/Serabe), Fernando Sanz [@fsanzv](https://twitter.com/fsanzv), Mánu Fosela[@manufosela](https://twitter.com/manufosela), Santiago Bernabé[@mindcookin](https://twitter.com/mindcookin).
+* Organizadores: 
+  * Alejandro Fernández [@pinchito](https://twitter.com/pinchito)
+  * Carlos Azaustre [@carlosazaustre](https://twitter.com/carlosazaustre) 
+  * Javier Abadia [@javierabadia](https://twitter.com/javierabadia) 
+  * Alvaro Santamaría [@dofideas](https://twitter.com/dofideas) 
+  * Sergio Arbeo [@Serabe](https://twitter.com/Serabe) 
+  * Fernando Sanz [@fsanzv](https://twitter.com/fsanzv)
+  * Mánu Fosela[@manufosela](https://twitter.com/manufosela)
+  * Santiago Bernabé[@mindcookin](https://twitter.com/mindcookin).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor contacta con uno de los organizadores.**
