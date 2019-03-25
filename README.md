@@ -19,7 +19,7 @@ Y por favor, ayúdanos a difundir el evento entre tus amigos, colegas, conocidos
 clubs de fans, etcétera. Queremos llegar a una audiencia lo más diversa posible.
 
 Si quieres proponer un encuentro, abre un [issue en GitHub](https://github.com/nodeschool/madrid/issues)
-o contacta con [@carlosazaustre](https://twitter.com/carlosazaustre).
+o contacta con [@carlosazaustre](https://twitter.com/carlosazaustre) o [@jacintoj_IT](https://twitter.com/jacintoj_IT)
 
 ### Eventos anteriores
 
